@@ -21,11 +21,6 @@
  
    <img align="center" margin=10  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Iammonis&count_private=true&theme=light&layout=compact">
 
-  <div align="center">
-   <img src="./code.gif" margin=10 align="center" alt="Coder GIF" width="480" height="300">
-  </div>
-
-
 <!--
 **Iammonis/Iammonis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
