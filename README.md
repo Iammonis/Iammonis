@@ -1,8 +1,8 @@
 <span align="left">
  <h3>Hi there, I am Monis 👨‍💻 </h3>
  
- <p>I'm a Full Stack Web Developer based in Bhopal, INDIA. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences. Shortly after graduating, I joined Masai School where I work on a wide variety of assignments and projects on a daily basis.</p>
- <h4> 💬 Ask me about anything, anytime 😄 </h4>
+ <p>I'm a Full Stack Web Developer based in Bhopal, INDIA. I am a self-motivated and passionate Full-stack developer proficient in MERN stack who loves building web applications looking forward to a chance to best utilize my skillset to achieve the goals assigned within the role of a web developer.
+</p>
  
 <a href='https://moniskhan.dev/' target='_blank'><img src="https://i.imgur.com/Hy9wWnN.png" width="50" height="50" /></a>
 <a href='https://twitter.com/Im_Monis' target='_blank'><img src="https://i.imgur.com/jZH5ppc.png" width="50" height="50" /></a>
