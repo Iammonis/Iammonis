@@ -6,7 +6,10 @@
  
 [![](https://img.icons8.com/material-two-tone/32/000000/linkedin.png)](www.linkedin.com/in/Iammonis)
 [![](https://img.icons8.com/material-two-tone/32/000000/gmail.png)](mailto:immoniskhan@gmail.com)
-[![](https://img.icons8.com/ios/32/000000/resume-website.png)](https://moniskhan.dev/)
+[![](https://i.imgur.com/Hy9wWnN.png =50x50)](https://moniskhan.dev/)
+
+
+
 
 </span>
  
