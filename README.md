@@ -4,9 +4,10 @@
  <p>I'm a Full Stack Web Developer based in Bhopal, INDIA. I enjoy creating things that live on the internet. My goal is to always build products that provide pixel-perfect, performant experiences. Shortly after graduating, I joined Masai School where I work on a wide variety of assignments and projects on a daily basis.</p>
  <h4> 💬 Ask me about anything, anytime 😄 </h4>
  
-<a href='https://twitter.com/Im_Monis' target='_blank'><img src="https://i.imgur.com/A1DJYou.png" width="50" height="50" /></a>
-<a href='mailto:immoniskhan@gmail.com' target='_blank'><img src="https://i.imgur.com/5DedS9w.png" width="50" height="50" /></a>
 <a href='https://moniskhan.dev/' target='_blank'><img src="https://i.imgur.com/Hy9wWnN.png" width="50" height="50" /></a>
+<a href='https://twitter.com/Im_Monis' target='_blank'><img src="https://i.imgur.com/jZH5ppc.png" width="50" height="50" /></a>
+<a href='mailto:immoniskhan@gmail.com' target='_blank'><img src="https://i.imgur.com/5DedS9w.png" width="50" height="50" /></a>
+<a href='https://www.linkedin.com/in/monis-khan-51278519/' target='_blank'><img src="https://i.imgur.com/R1dQaGF.png" width="50" height="50" /></a>
 
 
 
