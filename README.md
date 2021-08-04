@@ -1,7 +1,7 @@
 <span align="left">
  <h3>Hi there, I am Monis 👨‍💻 from Bhopal, India.</h3>
  
- <p>I am a self-motivated and passionate Full-stack developer proficient in MERN stack who loves building web applications looking forward to a chance to best utilize my skillset to achieve the goals assigned within the role of a web developer.
+ <p>I am a detail-oriented Full Stack Web Developer with excellent technical skills, and proficiency in MERN stack. Extremely passionate about building appealing and dynamic products that provide great user experiences. Looking forward to creating a mark within a product-based company based on the acquired skillset and passion for coding.
 </p>
  
 <a href='https://moniskhan.dev/' target='_blank'><img src="https://i.imgur.com/Hy9wWnN.png" width="50" height="50" /></a>
